@@ -11,7 +11,7 @@
 ### 🛠️ Tech Stack
 
 - **Languages:** Python, SQL, C  
-- **Database:** MySQL  
+- **Database:** MySQL , SQL SERVER 
 - **Learning:**  
   - ETL Concepts using SQL (Data Cleaning, Transformation, Joins, CTEs)  
   - Data Warehousing Basics (Star/Snowflake schemas)  
